@@ -6,6 +6,6 @@ parameters:
     paths:
         - src
 
-    excludes_analyse:
+    excludePaths:
         - src/*/Tests/*
         - src/**/Tests/*
